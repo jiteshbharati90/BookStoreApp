@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715801149~exp=1715804749~hmac=ac738c0c98b74b5fbe1a460092ca699a088f846c8e7dcc24585343bd13a1e3bb&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Mystery Novel",
+    "title": "A thrilling tale of suspense and intrigue.",
+    "price": "10",
+    "category": "Mystery",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-composition_1284-13086.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=3461f8a0150a0d5a95856b7c455b588b3c542be556d1c7dff3a2dc2f620b8a97"
+  },
+  {
+    "id": 3,
+    "name": "Science Fiction",
+    "title": "Explore futuristic worlds and advanced technologies.",
+    "price": "15",
+    "category": "Sci-Fi",
+    "image": "https://img.freepik.com/free-vector/stack-books-realistic_1284-5785.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=6e6b7c8d8f1b57a7b396cd982d72cfcdc898905c7f1eb4a5e50e823c2b52dbd4"
+  },
+  {
+    "id": 4,
+    "name": "Historical Fiction",
+    "title": "A journey back in time to historical events and eras.",
+    "price": "12",
+    "category": "History",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-composition_1284-63873.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=50d9d6f7285f3d1e453bd22ecf07a9ff520edec6608b1c342457c645cdb1f3f0"
+  },
+  {
+    "id": 5,
+    "name": "Romantic Novel",
+    "title": "A heartwarming story of love and relationships.",
+    "price": "8",
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-composition_1284-13086.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=3461f8a0150a0d5a95856b7c455b588b3c542be556d1c7dff3a2dc2f620b8a97"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Adventure",
+    "title": "Embark on a magical adventure in a fantastical world.",
+    "price": "20",
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-vector/realistic-books-collection_1284-12806.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=ce8b3a0332439da6f4a5a9069f5ff1d73ff0e6e9d7edebdd54ff2f37d5f177e5"
+  },
+  {
+    "id": 7,
+    "name": "Self-Help Guide",
+    "title": "Tips and advice for personal growth and development.",
+    "price": "5",
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-15799.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=a12a617dc8486b24560ef01f8e7d58a4998e3944b57b8aa064a74e1db5b7757d"
+  },
+  {
+    "id": 8,
+    "name": "Cookbook",
+    "title": "Delicious recipes and culinary tips from top chefs.",
+    "price": "18",
+    "category": "Cooking",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-24536.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=9a02bb1c0e8b9e897b3de5dd2b0d8e3f1621159c4a2a4b1c3e0a44e8a08e691e"
+  },
+  {
+    "id": 9,
+    "name": "Children's Book",
+    "title": "Engaging stories and colorful illustrations for kids.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-with-colored-covers-white_1284-63979.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=36de47083c70b2d0b8b2a6a179c621a6b4844e26fa7d78e2e7d75f1a083cdbf0"
+  },
+  {
+    "id": 10,
+    "name": "Poetry Collection",
+    "title": "A beautiful collection of poems from various authors.",
+    "price": "10",
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books_1284-12994.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=169dfd0be9c22ed0a70f9ec833f8d12a12124463bc3397fa3532529ed0e2fa3b"
+  },
+  {
+    "id": 11,
+    "name": "Biography",
+    "title": "An in-depth look into the life of a fascinating individual.",
+    "price": "14",
+    "category": "Biography",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-17683.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=3d1d6f9ab9f82f285ae775bc94fc007153bd1d6a02ad74eb26b58b8f21f1a9a4"
+  },
+  {
+    "id": 12,
+    "name": "Graphic Novel",
+    "title": "A visually stunning story told through powerful artwork.",
+    "price": "25",
+    "category": "Graphic Novel",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-15803.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=57a9c00dc2bcab048b1cb3b06d269eae240b06456db42cf0c663d3fa84097054"
+  },
+  {
+    "id": 13,
+    "name": "Travel Guide",
+    "title": "Your ultimate guide to exploring new destinations.",
+    "price": "22",
+    "category": "Travel",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-30084.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=02cb1d060e5670e2dc93a229a20c25f330e02a13f4b04d9e2f49d72a8b914db6"
+  },
+  {
+    "id": 14,
+    "name": "Horror Novel",
+    "title": "A chilling story that will keep you up at night.",
+    "price": "16",
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-28091.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=5b993f8dbf7687ba7dc6a4b49da3b2cf3428e4da95ad8b7b370795b64d56ae27"
+  },
+  {
+    "id": 15,
+    "name": "Educational Textbook",
+    "title": "A comprehensive resource for students and educators.",
+    "price": "30",
+    "category": "Education",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29082.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=3472f5cb8d2583c6057fd7c0c55c5d40f7f7ea1517c16ff5f01a85a0f9d04868"
+  },
+  {
+    "id": 16,
+    "name": "Health & Wellness",
+    "title": "A guide to living a healthy and balanced life.",
+    "price": "18",
+    "category": "Health",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29783.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=19da8f4e8c1a4f2dc8fc4c0a25c22702d9d3720eb92f88f5e506a2a7ef7f1a5d"
+  },
+  {
+    "id": 17,
+    "name": "Philosophy",
+    "title": "Thought-provoking writings from great philosophers.",
+    "price": "12",
+    "category": "Philosophy",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29579.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=8d19f9e1388a9271d110490882b29f8eb8f6b20f72d5d0b5769c4f2e8455e3d7"
+  },
+  {
+    "id": 18,
+    "name": "Drama",
+    "title": "A collection of powerful and emotional plays.",
+    "price": "14",
+    "category": "Drama",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29684.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=8a3b1f027a909e17869b56d2d9dcf15e2b5308f04734fd8832e1a00da90c8a2b"
+  },
+  {
+    "id": 19,
+    "name": "Comedy",
+    "title": "Humorous tales that will leave you in stitches.",
+    "price": "10",
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29479.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=9d7d735c749b6a71e77651b13e58e0f7d2c6f5a6040de2d9ee15d7e3e9704a56"
+  },
+  {
+    "id": 20,
+    "name": "Art & Design",
+    "title": "A showcase of beautiful and inspiring artwork.",
+    "price": "25",
+    "category": "Art",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29384.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=4356c6c83a7069e2f3e0aeeb70c9e57f0e4ac9a54a4a1d097d3dc49f56b3e309"
+  },
+  {
+    "id": 21,
+    "name": "Music Theory",
+    "title": "An in-depth look at the fundamentals of music.",
+    "price": "20",
+    "category": "Music",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29584.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=c9fa7bc2f1e5d117f9836d35fc8eb92b9ad19540b46fc7fbb2267b029d3b29f0"
+  },
+  {
+    "id": 22,
+    "name": "Gardening",
+    "title": "Tips and techniques for growing a beautiful garden.",
+    "price": "15",
+    "category": "Gardening",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29784.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=d872b6874c1041301bcd621e9f92a14cbfe419080832d5f69cf939640632b1e1"
+  },
+  {
+    "id": 23,
+    "name": "Business",
+    "title": "Strategies and insights for success in business.",
+    "price": "18",
+    "category": "Business",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29884.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=0562c6e516dc607c1cb4f2d24b50a8b34dbb0e391b7d7058985a0b82bc87446f"
+  },
+  {
+    "id": 24,
+    "name": "Technology",
+    "title": "An exploration of the latest advancements in technology.",
+    "price": "22",
+    "category": "Technology",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29984.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=28d6693e2e0f839d5bc2399c93d4681707c7d5b8d4cc06f91d13c0a5009271bc"
+  },
+  {
+    "id": 25,
+    "name": "Psychology",
+    "title": "Understanding the human mind and behavior.",
+    "price": "20",
+    "category": "Psychology",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-30084.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=02cb1d060e5670e2dc93a229a20c25f330e02a13f4b04d9e2f49d72a8b914db6"
+  },
+  {
+    "id": 26,
+    "name": "Sociology",
+    "title": "An in-depth study of society and social behavior.",
+    "price": "18",
+    "category": "Sociology",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29082.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=3472f5cb8d2583c6057fd7c0c55c5d40f7f7ea1517c16ff5f01a85a0f9d04868"
+  },
+  {
+    "id": 27,
+    "name": "Economics",
+    "title": "Principles and theories of economics explained.",
+    "price": "22",
+    "category": "Economics",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29479.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=9d7d735c749b6a71e77651b13e58e0f7d2c6f5a6040de2d9ee15d7e3e9704a56"
+  },
+  {
+    "id": 28,
+    "name": "Law",
+    "title": "A comprehensive guide to legal principles and cases.",
+    "price": "25",
+    "category": "Law",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29384.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=4356c6c83a7069e2f3e0aeeb70c9e57f0e4ac9a54a4a1d097d3dc49f56b3e309"
+  },
+  {
+    "id": 29,
+    "name": "Anthropology",
+    "title": "A study of human societies and cultures.",
+    "price": "20",
+    "category": "Anthropology",
+    "image": "https://img.freepik.com/free-vector/realistic-books-stack_1284-29783.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=19da8f4e8c1a4f2dc8fc4c0a25c22702d9d3720eb92f88f5e506a2a7ef7f1a5d"
+  },
+  {
+  "id": 9,
+    "name": "Children's Book",
+    "title": "Engaging stories and colorful illustrations for kids.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-with-colored-covers-white_1284-63979.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=36de47083c70b2d0b8b2a6a179c621a6b4844e26fa7d78e2e7d75f1a083cdbf0"
+  },
+  {
+    "id": 9,
+    "name": "Children's Book",
+    "title": "Engaging stories and colorful illustrations for kids.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-with-colored-covers-white_1284-63979.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=36de47083c70b2d0b8b2a6a179c621a6b4844e26fa7d78e2e7d75f1a083cdbf0"
+  },
+  {
+    "id": 9,
+    "name": "Children's Book",
+    "title": "Engaging stories and colorful illustrations for kids.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-with-colored-covers-white_1284-63979.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=36de47083c70b2d0b8b2a6a179c621a6b4844e26fa7d78e2e7d75f1a083cdbf0"
+  },
+  {
+    "id": 9,
+    "name": "Children's Book",
+    "title": "Engaging stories and colorful illustrations for kids.",
+    "price": "0",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/realistic-stack-books-with-colored-covers-white_1284-63979.jpg?w=740&t=st=1715801149~exp=1715804749~hmac=36de47083c70b2d0b8b2a6a179c621a6b4844e26fa7d78e2e7d75f1a083cdbf0"
+  }
+  
+  
+
+]
